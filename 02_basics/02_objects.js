@@ -30,7 +30,7 @@ JsUser.greetingTwo=function(){
 console.log(JsUser.greeting())
 console.log(JsUser.greetingTwo())
 
-const tinderUser=new Object()
+// const tinderUser=new Object()
 const tinderUser={}
 tinderUser.id="123abc"
 tinderUser.name="Sam"
