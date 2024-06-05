@@ -18,3 +18,15 @@ let isloggedin
 console.log(typeof age)
 console.log(typeof null) //type-object
 console.log(typeof undefined) //type-undefined
+
+
+const myFunction=function(){
+    console.log("Hello World");
+}
+
+
+// #PRIMITIVE
+// 7 types:String,Number,Booleans,null,undefined,Symbol,BigInt
+
+// #REFERENCE or NON_PRIMITIVE
+// Arrays,objects,Functions
